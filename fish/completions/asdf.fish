@@ -1,0 +1,1 @@
+/Users/unicorn/.asdf/completions/asdf.fish
