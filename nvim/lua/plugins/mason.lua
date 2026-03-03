@@ -19,6 +19,7 @@ return {
 
         -- install debuggers
         "debugpy",
+        "rdbg",
 
         -- install any other package
         "tree-sitter-cli",

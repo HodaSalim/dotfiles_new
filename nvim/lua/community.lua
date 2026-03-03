@@ -9,8 +9,9 @@ return {
   { import = "astrocommunity.motion.harpoon" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.note-taking.obsidian-nvim" },
-  { import = "astrocommunity.workflow.bad-practices-nvim" },
+  -- { import = "astrocommunity.workflow.bad-practices-nvim" },
   { import = "astrocommunity.recipes.disable-tabline" },
   { import = "astrocommunity.recipes.picker-nvchad-theme" },
+  { import = "astrocommunity.recipes.heirline-clock-statusline" },
   -- import/override with your plugins folder
 }
